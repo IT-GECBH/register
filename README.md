@@ -9,6 +9,11 @@ An open source student record management system built using Django.
 * Change db backend to MySQL. (https://www.digitalocean.com/community/tutorials/how-to-create-a-django-app-and-connect-it-to-a-database)
 * Create superuser.
 
+## PDF Generation
+* https://simpleisbetterthancomplex.com/tutorial/2016/08/08/how-to-export-to-pdf.html
+* http://www.blog.pythonlibrary.org/2018/06/05/creating-pdfs-with-pyfpdf-and-python/
+* http://code.activestate.com/recipes/579108-generate-a-pdf-invoice-with-xtopdf-and-python/
+
 ## TODO
 
 * [x] Create and register the studreg application.
